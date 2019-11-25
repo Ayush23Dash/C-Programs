@@ -34,7 +34,7 @@ void pallindrome(int n)
 }
 
 //To display pallindrome or not
-	if(p!=0)
+	if(p==index)
 		printf("\nPallindrome\n");
 		else
 		printf("\nNot a pallindrome\n");
